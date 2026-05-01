@@ -15,7 +15,7 @@ try:
 except Exception:
     RDKIT_AVAILABLE = False
 
-APP_TITLE = "PhytoMycoPred"
+APP_TITLE = "PhytoMyco-Pred"
 APP_SUBTITLE = "AI-assisted antifungal prediction for plant-pathogenic fungi"
 DEFAULT_MODEL_DIR = Path("models")
 DEFAULT_SPECIES = [
