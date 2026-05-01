@@ -2,7 +2,7 @@
 
 **PhytoMyco-Pred** is an AI-assisted web server for predicting antifungal compounds against major plant-pathogenic fungi. The platform first predicts whether a query compound is likely to possess antifungal potential and, for compounds predicted as antifungal, estimates species-wise targeting likelihood across supported fungal pathogens.
 
-***Avalaible at:** https://phytomycopred.streamlit.app/
+**Avalaible at:** https://phytomycopred.streamlit.app/
 
 ---
 
