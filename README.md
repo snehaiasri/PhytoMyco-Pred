@@ -5,7 +5,7 @@
 
 ---
 
-## Web Server Scope
+## Scope
 
 PhytoMyco-Pred is designed for early-stage prioritization of candidate antifungal compounds for plant disease management and crop protection research. 
 
@@ -40,7 +40,6 @@ The first model predicts whether a compound is likely to possess antifungal pote
 
 If a compound is predicted as antifungal, species-wise models estimate the fungal species against which the compound is most likely to show antifungal relevance.
 
----
 ---
 
 ## Input Format
